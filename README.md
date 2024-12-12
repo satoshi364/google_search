@@ -4,6 +4,7 @@ Google Search Test
 Автотест с использованием Playwright, который выполняет поиск в Google и делает скриншот результатов.
 
 - Установка и запуск:
-Откройте терминал, введите команды и нажмите Enter
-pip install playwright
-playwright install
+1. Открыть терминал
+2. Ввести команду pip install playwright и команду playwright install
+3. Нажать Enter
+
